@@ -1,4 +1,7 @@
-# toy-anything
+# tiny-anything
+
+English &nbsp; | &nbsp; [Chinese](./README.zh-CN.md)
+
 
 ## Libs
 
