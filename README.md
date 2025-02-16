@@ -24,8 +24,23 @@ English &nbsp; | &nbsp; [Chinese](./README.zh-CN.md)
 - [ua-parser-js](https://github.com/faisalman/ua-parser-js)
 - [fast-glob](https://github.com/mrmlnc/fast-glob)
 - [semver](https://github.com/npm/node-semver)
+- [classnames](https://github.com/JedWatson/classnames)
+- [socks-proxy-agent](https://github.com/TooTallNate/proxy-agents)
+- [eventsource](https://github.com/EventSource/eventsource)
+
 
 ### Number
+
+### Cli
+
+- [nodemon](https://github.com/remy/nodemon)
+- [tsx](https://github.com/privatenumber/tsx)
+
+
+### Env
+
+- [dotenv](https://github.com/motdotla/dotenv)
+
 
 ### Terminal
 
@@ -49,6 +64,10 @@ English &nbsp; | &nbsp; [Chinese](./README.zh-CN.md)
 
 - [live-server](https://github.com/tapio/live-server)
 - [serve](https://github.com/vercel/serve)
+
+### Framework
+
+
 
 ### Miscellaneous
 
