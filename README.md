@@ -23,8 +23,16 @@ English &nbsp; | &nbsp; [Chinese](./README.zh-CN.md)
 - [ ] [fast-glob](https://github.com/mrmlnc/fast-glob): 🚀 It's a very fast and efficient glob library for Node.js.
 - [ ] [semver](https://github.com/npm/node-semver): The semver parser for node (the one npm uses).
 - [ ] [classnames](https://github.com/JedWatson/classnames): A simple javascript utility for conditionally joining classNames together.
+- [ ] [ramda](https://github.com/ramda/ramda): 🐏 Practical functional Javascript.
+- [ ] [validator.js](): String validation.
+- [ ] [immer](): Create the next immutable state by mutating the current one.
+- [ ] [filesaver.js](): An HTML5 saveAs() FileSaver implementation.
+
 
 ### Number
+
+- [ ] [big.js](): A small, fast JavaScript library for arbitrary-precision decimal arithmetic.
+
 
 ### Cli
 
@@ -41,7 +49,6 @@ English &nbsp; | &nbsp; [Chinese](./README.zh-CN.md)
 
 - [ ] [chalk](https://github.com/chalk/chalk): 🖍 Terminal string styling done right.
 - [ ] [picocolors](https://github.com/alexeyraspopov/picocolors): The tiniest and the fastest library for terminal output formatting with ANSI colors.
-- [ ] [kleur](https://github.com/lukeed/kleur): The fastest Node.js library for formatting terminal text with ANSI colors~!.
 - [ ] [ora](https://github.com/sindresorhus/ora): Elegant terminal spinner.
 - [ ] [yargs](https://github.com/yargs/yargs): yargs the modern, pirate-themed successor to optimist.
 - [ ] [arg](https://github.com/vercel/arg): Simple argument parsing.
@@ -54,6 +61,17 @@ English &nbsp; | &nbsp; [Chinese](./README.zh-CN.md)
 
 - [ ] [axios](https://github.com/axios/axios): Promise based HTTP client for the browser and node.js.
 - [ ] [node-fetch](https://github.com/node-fetch/node-fetch): A light-weight module that brings the Fetch API to Node.js.
+- [ ] [superagent](): Ajax for Node.js and browsers (JS HTTP client).
+
+### State Management
+
+- [ ] [mobx](): Simple, scalable state management.
+- [ ] [redux](): A JS library for predictable global state management. 
+
+### Animation
+
+- [ ] [anime](): JavaScript animation engine.
+
 
 ### DevServer
 
