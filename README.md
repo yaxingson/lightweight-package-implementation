@@ -6,13 +6,13 @@ English &nbsp; | &nbsp; [Chinese](./README.zh-CN.md)
 
 ### Datetime
 
-- [ ] [moment](https://github.com/moment/moment): Parse, validate, manipulate, and display dates in javascript.
+- [ ] [moment](): Parse, validate, manipulate, and display dates in javascript.
 - [ ] [dayjs](https://github.com/iamkun/dayjs): ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API.
 
 ### Utility
 
-- [ ] [mitt](https://github.com/developit/mitt): 🥊 Tiny 200 byte functional event emitter / pubsub.
-- [ ] [pubsub-js](https://github.com/mroderick/PubSubJS): Dependency free publish/subscribe for JavaScript.
+- [ ] [mitt](./lib/mitt): 🥊 Tiny 200 byte functional event emitter / pubsub.
+- [ ] [pubsub-js](./lib/pubsub-js): Dependency free publish/subscribe for JavaScript.
 - [ ] [lodash](https://github.com/lodash/lodash): A modern JavaScript utility library delivering modularity, performance, & extras.
 - [ ] [underscore](https://github.com/jashkenas/underscore): JavaScript's utility _ belt.
 - [ ] [es-toolkit](https://github.com/toss/es-toolkit): A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
