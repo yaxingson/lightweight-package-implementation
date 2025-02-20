@@ -2,6 +2,8 @@ root = true
 
 [*]
 indent_style = tab
+indent_size = 2
+tab_width = 2
 end_of_line = lf
 charset = utf-8
 trim_trailing_whitespace = true
@@ -16,3 +18,30 @@ insert_final_newline = false
 trim_trailing_whitespace = false
 indent_style = space
 indent_size = 2
+
+[*.coffee]
+indent_style = space
+
+[{*.py,*.asm}]
+indent_style = space
+
+[*.py]
+indent_size = 4
+
+[{*.json,*.json.example,*.gyp,*.yml,*.yaml}]
+indent_style = space
+indent_size = 2
+
+[*.asm]
+indent_size = 8
+
+# Ideal settings - some plugins might support these.
+[*.js]
+quote_type = single
+
+[{*.c,*.cc,*.h,*.hh,*.cpp,*.hpp,*.m,*.mm,*.mpp,*.js,*.java,*.go,*.rs,*.php,*.ng,*.jsx,*.ts,*.d,*.cs,*.swift}]
+curly_bracket_next_line = false
+spaces_around_operators = true
+spaces_around_brackets = outside
+# close enough to 1TB
+indent_brace_style = K&R
