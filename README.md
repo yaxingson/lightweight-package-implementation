@@ -2,7 +2,7 @@
 
 English &nbsp; | &nbsp; [Chinese](./README.zh-CN.md)
 
-## Libs
+## Libraries
 
 ### Datetime
 
