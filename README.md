@@ -2,7 +2,7 @@
 
 English &nbsp; | &nbsp; [Chinese](./README.zh-CN.md)
 
-## Libs
+## Libraries
 
 ### Datetime
 
@@ -29,6 +29,23 @@ English &nbsp; | &nbsp; [Chinese](./README.zh-CN.md)
 - [ ] [filesaver.js](): An HTML5 saveAs() FileSaver implementation.
 - [ ] [jquery](): jQuery JavaScript Library.
 - [ ] [nprogress](): For slim progress bars like on YouTube, Medium, etc.
+- [ ] [prop-types](): Runtime type checking for React props and similar objects.
+- [ ] [async](): Async utilities for node and the browser.
+- [ ] [node-jsonwebtoken](): JsonWebToken implementation for node.js.
+- [ ] [cors](): Node.js CORS middleware.
+- [ ] [cheerio](): The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
+- [ ] [ms](): Tiny millisecond conversion utility.
+- [ ] [minimatch](): A glob matcher in javascript.
+- [ ] [node-lru-cache](): A fast cache that automatically deletes the least recently used items.
+- [ ] [glob](): Glob functionality for node.js.
+- [ ] [readable-stream](): Node-core streams for userland.
+- [ ] [color-convert](): Plain color conversion functions in JavaScript.
+- [ ] [uuid](): Generate RFC-compliant UUIDs in JavaScript.
+- [ ] [type-fest](): A collection of essential TypeScript types.
+- [ ] [ajv](): The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927).
+- [ ] [fs-extra](): Node.js: extra methods for the fs object like copy(), remove(), mkdirs().
+- [ ] [joi](): The most powerful data validation library for JS.
+
 
 ### Number
 
@@ -53,12 +70,14 @@ English &nbsp; | &nbsp; [Chinese](./README.zh-CN.md)
 - [ ] [dotenv](https://github.com/motdotla/dotenv): Loads environment variables from .env for nodejs projects.
 
 
-### Testing
+### Testing & Debug
 
 - [ ] [jest](): Delightful JavaScript Testing.
 - [ ] [vitest](): Next generation testing framework powered by Vite.
 - [ ] [mocha](): ☕️ simple, flexible, fun javascript test framework for node.js & the browser.
 - [ ] [chai](): BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
+- [ ] [debug]():  A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers.
+
 
 ### Lint & Format 
 
@@ -76,12 +95,25 @@ English &nbsp; | &nbsp; [Chinese](./README.zh-CN.md)
 - [ ] [boxen](https://github.com/sindresorhus/boxen): Create boxes in the terminal.
 - [ ] [prompts](https://github.com/terkelg/prompts): ❯ Lightweight, beautiful and user-friendly interactive prompts.
 - [ ] [enquirer](https://github.com/enquirer/enquirer): Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cyp…
+- [ ] [commander](): Node.js command-line interfaces made easy.
+
 
 ### Network
 
 - [ ] [axios](https://github.com/axios/axios): Promise based HTTP client for the browser and node.js.
 - [ ] [node-fetch](https://github.com/node-fetch/node-fetch): A light-weight module that brings the Fetch API to Node.js.
 - [ ] [superagent](): Ajax for Node.js and browsers (JS HTTP client).
+- [ ] [socket.io](): Realtime application framework (Node.JS server).
+
+### Database
+
+- [ ] [mongoose](): MongoDB object modeling designed to work in an asynchronous environment. 
+- [ ] [sequelize](): Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
+
+### Template
+
+- [ ] [ejs](): Embedded JavaScript templates. 
+
 
 ### State Management
 
