@@ -1,2 +1,3 @@
-# PubsubJS
+# pubsub-js
+
 

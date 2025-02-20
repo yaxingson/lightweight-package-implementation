@@ -2,6 +2,7 @@
   "name": "tiny-anything",
   "version": "1.0.0",
   "description": "",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "vitest"
@@ -10,6 +11,7 @@
   "author": "yaxingson <3228891558@qq.com>",
   "license": "MIT",
   "devDependencies": {
+    "@types/node": "^22.13.4",
     "vitest": "^3.0.5"
   }
 }
