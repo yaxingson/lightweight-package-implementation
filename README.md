@@ -56,6 +56,7 @@ English &nbsp; | &nbsp; [Chinese](./README.zh-CN.md)
 
 - [ ] [nodemon](https://github.com/remy/nodemon): Monitor for any changes in your node.js application and automatically restart the server - perfect for development.
 - [ ] [tsx](https://github.com/privatenumber/tsx): ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js.
+- [ ] [tsd](): Check TypeScript type definitions.
 - [ ] [vue-cli](): 🛠️ webpack-based tooling for Vue.js Development.
 - [ ] [create-react-app](): Set up a modern web app by running one command.
 
@@ -83,6 +84,8 @@ English &nbsp; | &nbsp; [Chinese](./README.zh-CN.md)
 
 - [ ] [eslint](): Find and fix problems in your JavaScript code.
 - [ ] [prettier](): Prettier is an opinionated code formatter.
+- [ ] [xo](): ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults.
+
 
 ### Terminal
 
@@ -160,3 +163,9 @@ English &nbsp; | &nbsp; [Chinese](./README.zh-CN.md)
 ## Contribution
 
 ## License
+
+Copyright © 2011-2016, Yaxing Son.
+
+Licensed under the MIT License.
+
+
