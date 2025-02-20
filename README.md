@@ -28,6 +28,7 @@ English &nbsp; | &nbsp; [Chinese](./README.zh-CN.md)
 - [ ] [immer](): Create the next immutable state by mutating the current one.
 - [ ] [filesaver.js](): An HTML5 saveAs() FileSaver implementation.
 - [ ] [jquery](): jQuery JavaScript Library.
+- [ ] [nprogress](): For slim progress bars like on YouTube, Medium, etc.
 
 ### Number
 
@@ -56,6 +57,8 @@ English &nbsp; | &nbsp; [Chinese](./README.zh-CN.md)
 
 - [ ] [jest](): Delightful JavaScript Testing.
 - [ ] [vitest](): Next generation testing framework powered by Vite.
+- [ ] [mocha](): ☕️ simple, flexible, fun javascript test framework for node.js & the browser.
+- [ ] [chai](): BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
 
 ### Lint & Format 
 
@@ -88,6 +91,18 @@ English &nbsp; | &nbsp; [Chinese](./README.zh-CN.md)
 ### Animation
 
 - [ ] [anime](): JavaScript animation engine.
+
+### Style
+
+- [ ] [bootstrap](): The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [ ] [tailwindcss](): A utility-first CSS framework for rapid UI development.
+- [ ] [styled-components](): Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅. 
+- [ ] [emotion](): 👩‍🎤 CSS-in-JS library designed for high performance style composition.
+- [ ] [unocss](): The instant on-demand atomic CSS engine.
+
+### Compiler
+
+- [ ] [babel](): 🐠 Babel is a compiler for writing next generation JavaScript.
 
 
 ### DevServer
