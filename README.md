@@ -45,6 +45,9 @@ English &nbsp; | &nbsp; [Chinese](./README.zh-CN.md)
 - [ ] [ajv](): The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927).
 - [ ] [fs-extra](): Node.js: extra methods for the fs object like copy(), remove(), mkdirs().
 - [ ] [joi](): The most powerful data validation library for JS.
+- [ ] [clipboard.js](): ✂️ Modern copy to clipboard. No Flash. Just 3kb gzipped 📋.
+- [ ] [jspdf](): Client-side JavaScript PDF generation for everyone.
+- [ ] [nanoid](): A tiny (124 bytes), secure, URL-friendly, unique string ID generator for JavaScript.
 
 
 ### Number
@@ -57,8 +60,10 @@ English &nbsp; | &nbsp; [Chinese](./README.zh-CN.md)
 - [ ] [nodemon](https://github.com/remy/nodemon): Monitor for any changes in your node.js application and automatically restart the server - perfect for development.
 - [ ] [tsx](https://github.com/privatenumber/tsx): ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js.
 - [ ] [tsd](): Check TypeScript type definitions.
+- [ ] [pm2](): Node.js Production Process Manager with a built-in Load Balancer.
 - [ ] [vue-cli](): 🛠️ webpack-based tooling for Vue.js Development.
 - [ ] [create-react-app](): Set up a modern web app by running one command.
+
 
 ### Build Tools
 
@@ -99,6 +104,7 @@ English &nbsp; | &nbsp; [Chinese](./README.zh-CN.md)
 - [ ] [prompts](https://github.com/terkelg/prompts): ❯ Lightweight, beautiful and user-friendly interactive prompts.
 - [ ] [enquirer](https://github.com/enquirer/enquirer): Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cyp…
 - [ ] [commander](): Node.js command-line interfaces made easy.
+- [ ] [inquirer.js](): A collection of common interactive command line user interfaces.
 
 
 ### Network
@@ -156,6 +162,8 @@ English &nbsp; | &nbsp; [Chinese](./README.zh-CN.md)
 - [ ] [nest](): A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀.
 - [ ] [nuxt](): The Intuitive Vue Framework.
 - [ ] [next.js](): The React Framework.
+- [ ] [mermaid](): Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown.
+
 
 
 ### Miscellaneous
