@@ -59,6 +59,7 @@ English &nbsp; | &nbsp; [Chinese](./README.zh-CN.md)
 - [ ] [log4js](): A port of log4js to node.js. 
 - [ ] [winston](): A logger for just about everything.
 - [ ] [js-cookie](): A simple, lightweight JavaScript API for handling browser cookies.
+- [ ] [copy-text-to-clipboard](): Copy text to the clipboard in modern browsers (0.2 kB).
 
 
 ### Number
@@ -162,6 +163,8 @@ English &nbsp; | &nbsp; [Chinese](./README.zh-CN.md)
 - [ ] [live-server](https://github.com/tapio/live-server): A simple development http server with live reload capability.
 - [ ] [serve](https://github.com/vercel/serve): Static file serving and directory listing.
 - [ ] [json-server](https://github.com/typicode/json-server): Get a full fake REST API with zero coding in less than 30 seconds (seriously).
+- [ ] [http-server](): A simple zero-configuration command-line http server.
+
 
 ### Framework
 
