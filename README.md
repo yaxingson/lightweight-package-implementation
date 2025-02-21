@@ -48,6 +48,17 @@ English &nbsp; | &nbsp; [Chinese](./README.zh-CN.md)
 - [ ] [clipboard.js](): ✂️ Modern copy to clipboard. No Flash. Just 3kb gzipped 📋.
 - [ ] [jspdf](): Client-side JavaScript PDF generation for everyone.
 - [ ] [nanoid](): A tiny (124 bytes), secure, URL-friendly, unique string ID generator for JavaScript.
+- [ ] [filesize](): JavaScript library to generate a human readable String describing the file size.
+- [ ] [driver.js](): A light-weight, no-dependency, vanilla JavaScript engine to drive user's focus across the page.
+- [ ] [crypto-js](): JavaScript library of crypto standards.
+- [ ] [xss](): Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist.
+- [ ] [multer](): Node.js middleware for handling `multipart/form-data`.
+- [ ] [markdown-it](): Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed. 
+- [ ] [js-yaml](): JavaScript YAML parser and dumper. Very fast.
+- [ ] [chokidar](): Minimal and efficient cross-platform file watching library.
+- [ ] [log4js](): A port of log4js to node.js. 
+- [ ] [winston](): A logger for just about everything.
+- [ ] [js-cookie](): A simple, lightweight JavaScript API for handling browser cookies.
 
 
 ### Number

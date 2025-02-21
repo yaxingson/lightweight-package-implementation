@@ -8,7 +8,10 @@
     "test": "vitest"
   },
   "keywords": [],
-  "author": "yaxingson <3228891558@qq.com>",
+  "author": {
+    "name":"yaxingson",
+    "email":"3228891558@qq.com"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/yaxingson/tiny-anything.git"
