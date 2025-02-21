@@ -104,6 +104,7 @@ English &nbsp; | &nbsp; [Chinese](./README.zh-CN.md)
 - [ ] [prompts](https://github.com/terkelg/prompts): ❯ Lightweight, beautiful and user-friendly interactive prompts.
 - [ ] [enquirer](https://github.com/enquirer/enquirer): Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cyp…
 - [ ] [commander](): Node.js command-line interfaces made easy.
+- [ ] [inquirer.js](): A collection of common interactive command line user interfaces.
 
 
 ### Network
