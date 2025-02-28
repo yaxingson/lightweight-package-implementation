@@ -61,6 +61,8 @@ English &nbsp; | &nbsp; [Chinese](./README.zh-CN.md)
 - [ ] [winston](): A logger for just about everything.
 - [ ] [js-cookie](): A simple, lightweight JavaScript API for handling browser cookies.
 - [ ] [copy-text-to-clipboard](): Copy text to the clipboard in modern browsers (0.2 kB).
+- [ ] [js-base64](): Base64 implementation for JavaScript.
+
 
 
 ### Number
