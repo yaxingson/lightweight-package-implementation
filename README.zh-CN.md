@@ -1,4 +1,4 @@
-# tiny-anything
+# mini-anything
 
 English &nbsp; | &nbsp; [中文](./README.zh-CN.md)
 
