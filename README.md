@@ -62,7 +62,9 @@ English &nbsp; | &nbsp; [Chinese](./README.zh-CN.md)
 - [ ] [js-cookie](): A simple, lightweight JavaScript API for handling browser cookies.
 - [ ] [copy-text-to-clipboard](): Copy text to the clipboard in modern browsers (0.2 kB).
 - [ ] [js-base64](): Base64 implementation for JavaScript.
-
+- [ ] [html2canvas](): Screenshots with JavaScript.
+- [ ] [jszip](): Create, read and edit .zip files with Javascript.
+- [ ] [qrcode](): QR code generator.
 
 
 ### Number
