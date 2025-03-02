@@ -65,6 +65,10 @@ English &nbsp; | &nbsp; [Chinese](./README.zh-CN.md)
 - [ ] [html2canvas](): Screenshots with JavaScript.
 - [ ] [jszip](): Create, read and edit .zip files with Javascript.
 - [ ] [qrcode](): QR code generator.
+- [ ] [sockjs-node](): WebSocket emulation - Node.js server.
+- [ ] [mock](): A simulation data generator.
+- [ ] [casual](): Fake data generator for javascript.
+- [ ] [json5](): JSON5 — JSON for Humans.
 
 
 ### Number
@@ -79,7 +83,11 @@ English &nbsp; | &nbsp; [Chinese](./README.zh-CN.md)
 - [ ] [tsd](): Check TypeScript type definitions.
 - [ ] [pm2](): Node.js Production Process Manager with a built-in Load Balancer.
 - [ ] [vue-cli](): 🛠️ webpack-based tooling for Vue.js Development.
+- [ ] [@vue/cli-service](): Service for vue-cli.
 - [ ] [create-react-app](): Set up a modern web app by running one command.
+- [ ] [yo](): CLI tool for running Yeoman generators.
+- [ ] [create-vite](): Scaffolding Your First Vite Project.
+
 
 
 ### Build Tools
@@ -138,7 +146,9 @@ English &nbsp; | &nbsp; [Chinese](./README.zh-CN.md)
 
 ### Template
 
-- [ ] [ejs](): Embedded JavaScript templates. 
+- [ ] [ejs](): Embedded JavaScript templates.
+- [ ] [pug](): Pug – robust, elegant, feature rich template engine for Node.js.
+
 
 
 ### State Management
