@@ -69,6 +69,7 @@ English &nbsp; | &nbsp; [Chinese](./README.zh-CN.md)
 - [ ] [mock](): A simulation data generator.
 - [ ] [casual](): Fake data generator for javascript.
 - [ ] [json5](): JSON5 — JSON for Humans.
+- [ ] [marked](): A markdown parser and compiler. Built for speed.
 
 
 ### Number
