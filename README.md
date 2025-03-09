@@ -1,4 +1,4 @@
-# mini-anything
+# lightweight-package-implementation
 
 English &nbsp; | &nbsp; [Chinese](./README.zh-CN.md)
 
