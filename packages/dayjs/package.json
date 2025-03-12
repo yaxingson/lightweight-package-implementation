@@ -1,0 +1,11 @@
+{
+  "name": "@mini/dayjs",
+  "scripts": {
+    "build":"tsx build",
+    "test":"jest __tests__/timezone.test"
+  },
+  "devDependencies": {
+    "@types/ncp": "^2.0.8",
+    "ncp": "^2.0.0"
+  }
+}
