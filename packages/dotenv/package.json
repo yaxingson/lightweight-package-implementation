@@ -1,0 +1,10 @@
+{
+  "name": "@mini/dotenv",
+  "scripts": {
+    "lint": "standard"
+  },
+  "devDependencies": {
+    "standard": "^17.1.2",
+    "standard-version": "^9.5.0"
+  }
+}

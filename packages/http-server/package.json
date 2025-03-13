@@ -1,0 +1,6 @@
+{
+  "name":"@mini/http-server",
+  "scripts": {
+    "start":"node ./bin/http-server"
+  }
+}
