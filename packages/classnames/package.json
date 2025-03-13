@@ -1,0 +1,12 @@
+{
+  "name":"@mini/classnames",
+  "scripts": {
+    "test":"tsx --test ./__tests__/index.ts",
+    "bench":"tsx ./benchmarks/run",
+    "bench:browser":"rollup && npx http-server ./benchmarks/browser",
+    "typecheck":"tsd"
+  },
+  "tsd":{
+    "directory":""
+  }
+}

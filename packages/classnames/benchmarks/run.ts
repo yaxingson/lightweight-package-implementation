@@ -1,0 +1,2 @@
+import { runBenchmark } from './benchmark'
+

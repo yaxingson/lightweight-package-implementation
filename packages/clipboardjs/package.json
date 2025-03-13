@@ -1,0 +1,7 @@
+{
+  "name":"@mini/clipboard",
+  "scripts": {
+    "typecheck":"tsd",
+    "build":"webpack"
+  }
+}

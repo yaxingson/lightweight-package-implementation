@@ -1,0 +1,14 @@
+{
+  "name": "@mini/boxen",
+  "scripts": {
+    "lint": "xo",
+    "test": "nyc ava",
+    "typecheck": "tsd"
+  },
+  "devDependencies": {
+    "ava": "^6.2.0",
+    "nyc": "^17.1.0",
+    "tsd": "^0.31.2",
+    "xo": "^0.60.0"
+  }
+}
