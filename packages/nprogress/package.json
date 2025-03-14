@@ -1,0 +1,14 @@
+{
+  "name": "@mini/nprogress",
+  "scripts": {
+    "clean":"rm -rf dist",
+    "build:css":"npm run clean && mkdir dist && cp nprogress.css ./dist",
+    "build:js":"tsc index.ts --outFile ./dist/nprogress.js --declaration",
+    "build": "npm run build:css & npm run build:js",
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "^5.2.0",
+    "mocha": "^11.1.0"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@mini/minimatch",
+  "type": "module",
+  "scripts": {
+    "test": "tap",
+    "bench":"tsx benchmark"
+  },
+  "devDependencies": {
+    "@types/brace-expansion": "^1.1.2",
+    "brace-expansion": "^4.0.0",
+    "typedoc": "^0.27.9"
+  }
+}

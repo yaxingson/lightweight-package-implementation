@@ -184,6 +184,7 @@ English &nbsp; | &nbsp; [Chinese](./README.zh-CN.md)
 
 ### Framework
 
+- [ ] [snabbdom](): A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
 - [ ] [vue](): 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [ ] [react](): The library for web and native user interfaces.
 - [ ] [svelte](): web development for the rest of us.

@@ -1,0 +1,14 @@
+{
+  "name": "@mini/casual",
+  "scripts": {
+    "test": "mocha -R spec -r should __tests__ --recursive"
+  },
+  "dependencies": {
+    "mersenne-twister": "^1.1.0",
+    "moment": "^2.30.1"
+  },
+  "devDependencies": {
+    "mocha": "^11.1.0",
+    "should": "^13.2.3"
+  }
+}

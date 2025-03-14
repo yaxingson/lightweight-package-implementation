@@ -1,0 +1,17 @@
+{
+  "name":"@mini/xss",
+  "type":"module",
+  "main":"./dist/xss.js",
+  "typings":"./dist/index.d.ts",
+  "bin":{
+    "xss":"./bin/xss"
+  },
+  "scripts": {
+    "build":"",
+    "test":"mocha"
+  },
+  "files":["dist", "bin/xss.js"],
+  "engines": {
+    "node":">= 20.14.0"
+  }
+}
