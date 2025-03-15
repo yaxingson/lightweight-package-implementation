@@ -70,6 +70,8 @@ English &nbsp; | &nbsp; [Chinese](./README.zh-CN.md)
 - [ ] [casual](): Fake data generator for javascript.
 - [ ] [json5](): JSON5 — JSON for Humans.
 - [ ] [marked](): A markdown parser and compiler. Built for speed.
+- [ ] [clsx](): A tiny (239B) utility for constructing `className` strings conditionally.
+- [ ] [pino](): 🌲 super fast, all natural json logger. 
 
 
 ### Number
@@ -139,6 +141,7 @@ English &nbsp; | &nbsp; [Chinese](./README.zh-CN.md)
 - [ ] [node-fetch](https://github.com/node-fetch/node-fetch): A light-weight module that brings the Fetch API to Node.js.
 - [ ] [superagent](): Ajax for Node.js and browsers (JS HTTP client).
 - [ ] [socket.io](): Realtime application framework (Node.JS server).
+- [ ] [whatwg-fetch](): A window.fetch JavaScript polyfill.
 
 ### Database
 
