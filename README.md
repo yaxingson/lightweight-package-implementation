@@ -183,7 +183,7 @@ English &nbsp; | &nbsp; [Chinese](./README.zh-CN.md)
 - [ ] [serve](https://github.com/vercel/serve): Static file serving and directory listing.
 - [ ] [json-server](https://github.com/typicode/json-server): Get a full fake REST API with zero coding in less than 30 seconds (seriously).
 - [ ] [http-server](): A simple zero-configuration command-line http server.
-
+- [ ] [connect](): Connect is a middleware layer for Node.js.
 
 ### Framework
 
