@@ -71,7 +71,8 @@ English &nbsp; | &nbsp; [Chinese](./README.zh-CN.md)
 - [ ] [json5](): JSON5 — JSON for Humans.
 - [ ] [marked](): A markdown parser and compiler. Built for speed.
 - [ ] [clsx](): A tiny (239B) utility for constructing `className` strings conditionally.
-- [ ] [pino](): 🌲 super fast, all natural json logger. 
+- [ ] [pino](): 🌲 super fast, all natural json logger.
+- [ ] [zod](): TypeScript-first schema validation with static type inference.
 
 
 ### Number
